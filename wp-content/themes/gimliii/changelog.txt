@@ -1,0 +1,22 @@
+<==========V 1.0.0===========>
+1) Basic Theme Ready to go.
+<==========V 1.0.1===========>
+1) Added author uri
+<==========V 1.0.2===========>
+1) Removed <hr> in the page.php to fix clearing floats.
+<==========V 1.0.3===========>
+1)Custom Header support
+2)Background support
+3)Link blog list images & titles
+4)Check Footer Widget Activeness to display
+<==========V 1.0.4===========>
+1)Added custom-header , custom-background ,sticky-post tags to the style.css
+2)Nav-Menu check when there is no menu assigned
+<==========V 1.0.5===========>
+1)Added POT file for easy translations
+<==========V 1.0.6===========>
+1)Added POT file for easy translations
+2)some syle changes
+<==========V 1.0.7===========>
+1)Adding editor-style.css
+2)some style changes
